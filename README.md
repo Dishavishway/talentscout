@@ -26,6 +26,9 @@ pip install -r requirements.txt
 ```bash
 streamlit run hiring_assistant.py
 ```
+## Demo
+![Home Screen](Screenshot%202025-02-07%20131931.png)
+![bot](Screenshot%202025-02-07%20131917.png)
 
 ## Features
 
